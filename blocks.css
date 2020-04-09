@@ -1,5 +1,5 @@
 body {
-    font-family: "Andale Mono", serif;
+    font-family: "JetBrains Mono", monospace, "Century Schoolbook L";
 }
 
 
@@ -68,4 +68,5 @@ body {
 
 #link a {
     background-color: crimson;
+    color: antiquewhite;
 }
